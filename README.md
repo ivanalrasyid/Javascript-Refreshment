@@ -52,3 +52,6 @@ cars.forEach((car, index)=> console.log(index, car))
 0 Hyundai
 1 Tata
 2 Toyota
+
+
+© Copyright - Ivan Alrasyid
